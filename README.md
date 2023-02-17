@@ -24,19 +24,19 @@ This is paragraph with **bold** *italic*.
 > Back to the first level.
 
 
-*Red
-*Green
-*Blue
+* Red
+* Green
+* Blue
 
-+Red
-+Green
-+Blue
++ Red
++ Green
++ Blue
 
--Red
--Green
--Blue
+- Red
+- Green
+- Blue
 
-This is normal paragraph
+This is normal paragraph:
   This is code block
 
 ```php
