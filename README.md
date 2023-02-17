@@ -36,7 +36,7 @@ This is paragraph with **bold** *italic*.
 - Green
 - Blue
 
-This is normal paragraph:
+This is normal paragraph  :
   This is code block
 
 ```php
@@ -47,6 +47,8 @@ This is normal paragraph:
 ***
 ---
 ----------------
+
+[DevOps](https://devopswithdocker.com/part-1) devops Link
 
 This is [Google](https://google.com) inline link.
 
